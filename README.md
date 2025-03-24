@@ -1,2 +1,2 @@
-# ma-4999-game-theory
-Hello
+# Game Theory
+This repo contains the notes for the Game Theory course with Professor Song.
